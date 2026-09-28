@@ -17,7 +17,10 @@ A seção "Sobre" possui um espaço reservado para uma foto profissional do Gabr
 
 ## Contatos configurados
 
-- Instagram: https://www.instagram.com/rogers.fotografias/
-- WhatsApp: https://wa.me/558586757522
-- E-mail: rogersfotografias19@gmail.com
-- Banlek: https://banlek.com/rogers_fotografias_
+- Instagram
+- WhatsApp
+- E-mail
+- Banlek
+
+## Site 
+- https://roger-fotografias.vercel.app/
